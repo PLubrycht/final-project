@@ -1,0 +1,27 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLubrycht/final-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PLubrycht/final-project/issues"
+  },
+  "homepage": "https://github.com/PLubrycht/final-project#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/node": "^24.10.1",
+    "dotenv": "^17.2.3",
+    "hardhat": "^2.22.1"
+  }
+}

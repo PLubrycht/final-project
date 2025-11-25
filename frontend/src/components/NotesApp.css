@@ -1,0 +1,31 @@
+.notes-app {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+.notes-app h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.notes-app input {
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+  width: 250px;
+}
+
+.notes-app button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.notes-list {
+  margin-top: 1rem;
+  list-style: none;
+  padding: 0;
+}
+
+.notes-list li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #ddd;
+}
